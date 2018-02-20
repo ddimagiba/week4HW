@@ -7,7 +7,7 @@ var temp2 = faranheit
 
 
 
-//* Im not sure is is this is the right idea? 
+//* Im not sure if this is the right idea? 
 var convertor = {
 	multiply: function(cel, temp1)
 		return 1.8 * temp1
@@ -32,3 +32,4 @@ function convertAppendResult() {
 
 //* I am very lost at this point I do not know where to 
 /* begin or what path to go about doing this/
+
