@@ -30,6 +30,13 @@ function convertAppendResult() {
 
 }
 
+document.querySelector('#convertor').addEventListner('click,')
+	var temp1 = document querySelector(#temp1).celsius
+	var temp2 = document querySelector(#temp2).faranheit
+	var cel = document querySelector(#cel).1.8
+	var results = document querySelector(#convertor)
+
 //* I am very lost at this point I do not know where to 
-/* begin or what path to go about doing this/
+/* begin or what path to go about doing this s
+
 
